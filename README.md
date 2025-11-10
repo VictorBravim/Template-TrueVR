@@ -5,7 +5,7 @@
 
 ## <code>Introdução</code>
 
-This is a basic website project built with Next.js, TypeScript and Tailwind CSS to showcase TrueVR, a virtual reality platform.
+Este é um projeto básico de website desenvolvido com Next.js, TypeScript e Tailwind CSS para servir como estudo e prática de estrutura front-end, apresentando o TrueVR — uma plataforma de realidade virtual.
 
 ## <code>Pré-requisitos</code>
 
@@ -14,19 +14,19 @@ This is a basic website project built with Next.js, TypeScript and Tailwind CSS 
 
 ## <code>Configuração</code>
 
-1. Clone this repository:
+1. Clone este repositório:
  
 ```
 git clone https://github.com/VictorBravim/TrueVR.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
    
 ```
 cd TrueVR
 ```
 
-3. Install dependencies:
+3. Instale dependências:
    
 ```
 npm install
@@ -36,15 +36,15 @@ yarn install
    
 ## <code>Estrutura</code>
 
-- components/: Contains the reusable components of the website, such as navigation, hero, project card, etc.
-- pages/: Contains the site's pages, each corresponding to a different route.
-- public/: Contains static files, such as images.
-- styles/: Contains global style files.
-- globals.css: Global style file applied throughout the application.
-- RootLayout.tsx: Root layout to apply global styles and settings.
-- next.config.js: Next.js configurations.
-- tsconfig.json: TypeScript settings.
+- componentes/: Contém os componentes reutilizáveis ​​do site, como navegação, herói, cartão de projeto, etc.
+- pages/: Contém as páginas do site, cada uma correspondendo a um percurso diferente.
+- public/: Contém arquivos estáticos, como imagens.
+- styles/: Contém arquivos de estilos globais.
+- globals.css: Arquivo de estilo global aplicado em toda a aplicação.
+- RootLayout.tsx: Layout raiz para aplicar estilos e configurações globais.
+- next.config.js: configurações do Next.js.
+- tsconfig.json: configurações de TypeScript.
 
 ## <code>Licensa</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
