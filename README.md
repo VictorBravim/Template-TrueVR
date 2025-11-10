@@ -45,6 +45,6 @@ yarn install
 - next.config.js: configurações do Next.js.
 - tsconfig.json: configurações de TypeScript.
 
-## <code>Licensa</code>
+## <code>Licença</code>
 
 - Este projeto está licenciado sob a [Licença MIT](LICENSE).
