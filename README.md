@@ -1,18 +1,18 @@
-# 👽 TrueVR
+# TrueVR
 
 ![image 2](https://github.com/VictorBravim/TrueVR/assets/122113588/c9375d0a-4537-46e6-9d1b-da65c11787a0)
 
 
-## 🚀 Overview
+## <code>Introdução</code>
 
 This is a basic website project built with Next.js, TypeScript and Tailwind CSS to showcase TrueVR, a virtual reality platform.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js
 - npm ou yarn
 
-## 🔧 Installation
+## <code>Configuração</code>
 
 1. Clone this repository:
  
@@ -34,7 +34,7 @@ npm install
 yarn install
 ```
    
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
 - components/: Contains the reusable components of the website, such as navigation, hero, project card, etc.
 - pages/: Contains the site's pages, each corresponding to a different route.
@@ -45,6 +45,6 @@ yarn install
 - next.config.js: Next.js configurations.
 - tsconfig.json: TypeScript settings.
 
-## 📄 License
+## <code>Licensa</code>
 
 - This project is licensed under the [MIT License](LICENSE).
